@@ -1,0 +1,6 @@
+*.class
+*.jar
+*.gpj
+*.gpx
+.DS_Store
+Thumbs.db
